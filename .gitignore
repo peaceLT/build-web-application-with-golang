@@ -1,6 +1,5 @@
 *~
 pkg/*
-*.html
 *.exe
 _book
 *.epub
